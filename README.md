@@ -19,7 +19,7 @@ Go to your Sublime Text 2 Packages directory:
 
 and clone the repository there
 
-  git clone git://github.com/ingshtrom/BlockCursorEverywhere
+  git clone git://github.com/jlangston/BlockCursorEverywhere
 
 
 ## Configuration ##
